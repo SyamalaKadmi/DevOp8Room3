@@ -1,0 +1,33 @@
+[33mcommit 273b86e7dcd82d3cf6479d80f733c42c7cc3164c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: d9cf2e0 77d26e3
+Author: Syamala <syamala.kadimi@gmail.com>
+Date:   Sun Aug 11 16:55:57 2024 +0530
+
+    Merge branch 'main' of https://github.com/SyamalaKadmi/DevOp8Room3
+
+[33mcommit d9cf2e09792d39233fc1c0b717078d2e077c0e5b[m
+Author: Syamala <syamala.kadimi@gmail.com>
+Date:   Sun Aug 11 16:55:31 2024 +0530
+
+    Added loops.py
+
+[33mcommit 77d26e3f7eb4a4d7336038ad3e72ab5a8443a2a4[m
+Merge: 6ccbada 36cd00f
+Author: shrishri-ops <rahulnathrekar.abcgroup@gmail.com>
+Date:   Sun Aug 11 16:55:28 2024 +0530
+
+    Merge pull request #1 from SyamalaKadmi/shrishri-ops-patch-1
+    
+    please add name
+
+[33mcommit 36cd00f991a668f35f8e6de49a8034ce89003a47[m[33m ([m[1;31morigin/shrishri-ops-patch-1[m[33m)[m
+Author: shrishri-ops <rahulnathrekar.abcgroup@gmail.com>
+Date:   Sun Aug 11 16:54:08 2024 +0530
+
+    name
+
+[33mcommit 6ccbada9b5e34be11bc9827b91b40f74caa2830f[m[33m ([m[1;32mfeatureA[m[33m)[m
+Author: Syamala <syamala.kadimi@gmail.com>
+Date:   Sun Aug 11 16:51:15 2024 +0530
+
+    Python files
